@@ -20,4 +20,4 @@ You can look for useful resouces here:
 4. You can add features in this file.
 
 
-&nbsp; <img src='a07c87c59ba106ebc9127d11fe719af2.jpg' width = 350>  <img src='Quickit.PNG' width = 490 height= 350>
+&nbsp; <img src='a07c87c59ba106ebc9127d11fe719af2.jpg' width = 350>  <img src='Quickit.PNG' width = 420 height= 350>

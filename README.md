@@ -19,4 +19,4 @@ You can look for useful resouces here:
 3. Just run the file "__init__.py" for preview.
 4. You can add features in this file.
 
-<img src=>
+<img src='a07c87c59ba106ebc9127d11fe719af2.jpg'><img src='Quickit.PNG'>

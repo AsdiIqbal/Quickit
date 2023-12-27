@@ -21,3 +21,13 @@ You can look for useful resouces here:
 
 
 &nbsp; <img src='a07c87c59ba106ebc9127d11fe719af2.jpg' width = 350>  <img src='Quickit.PNG' width = 420 height= 350>
+
+you can look for more useful resources related robotics here:
+
+- **YouTube Tutorials:**
+  - [Robotics Tutorial for Beginners by Simplilearn](https://www.youtube.com/watch?v=5bBES9qq20s)
+  - [Robotics for Beginners by The Coding Train](https://www.youtube.com/watch?v=6E6XecoTRVo)
+
+- **Books:**
+  - ["Robot Building for Beginners" by David Cook](https://www.goodreads.com/book/show/1919154.Robot_Building_for_Beginners)
+  - ["Robotics: Modelling, Planning and Control" by Bruno Siciliano](https://www.goodreads.com/book/show/9541216-robotics)
